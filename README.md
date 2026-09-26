@@ -181,6 +181,8 @@ https://networkwalks.com/hash-calculator/
 past the hash and crack it https://networkwalks.com/password-cracker/
 <img width="1200" height="887" alt="Screenshot 2026-09-26 221654" src="https://github.com/user-attachments/assets/c39b45d4-832e-4929-8c1d-adfbd63eb50f" />
 
+linkedin id :https://www.linkedin.com/in/md-nazeerullaa-51211133a/
+
 
 
 
