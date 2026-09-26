@@ -173,6 +173,18 @@ click start button
 <img width="1025" height="855" alt="Screenshot 2026-09-26 181010" src="https://github.com/user-attachments/assets/1ce83185-2e21-40f3-8637-0028b40835ab" />
 
 
+# Method 2
+upload locked pdf for generate hase
+https://networkwalks.com/hash-calculator/
+<img width="1200" height="887" alt="image" src="https://github.com/user-attachments/assets/f1e398d1-6ab1-4180-94df-16dec6f6ffac" />
+<img width="1247" height="761" alt="Screenshot 2026-09-26 221626" src="https://github.com/user-attachments/assets/1ee6f366-c1a3-4ccc-ba2b-036e7f8db2d8" />
+past the hash and crack it https://networkwalks.com/password-cracker/
+<img width="1200" height="887" alt="Screenshot 2026-09-26 221654" src="https://github.com/user-attachments/assets/c39b45d4-832e-4929-8c1d-adfbd63eb50f" />
+
+
+
+
+
 
 
 
